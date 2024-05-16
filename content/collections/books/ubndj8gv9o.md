@@ -1,0 +1,7 @@
+---
+id: c78a57f9-a12a-4796-ac72-133a7884140e
+blueprint: book
+title: XZj8VkxUOP
+author: IgsTnZp2VY
+description: 1Lq5NwU70WyjeJY9Y9fEXcyD63Z0FcA3M6XmTLRWopOTATS4b23chBJNH57PdQK35YOn9RqRxKgPDCGq8H0r5J9cXsCF31rtVB73
+---
